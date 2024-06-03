@@ -10,11 +10,11 @@ Todos os notebooks a serem desenvolvidos e compartilhados devem utilizar pelo me
 
 Os notebook estão divididos entre os seguintes tópicos:
 
- 1. [Avaliação da Operação](https://github.com/ONSDados/DadosAbertos/tree/main/Avaliacao_da_operacao) 
- 2. [Integração de Instalações](https://github.com/ONSDados/DadosAbertos/tree/main/Integracao_de_instalacoes) 
- 3. [Operação do Sistema](https://github.com/ONSDados/DadosAbertos/tree/main/Operacao_do_sistema)    
- 4. [Planejamento da Operação](https://github.com/ONSDados/DadosAbertos/tree/main/Planejamento_da_operacao) 
- 5. [Programação da Operação](https://github.com/ONSDados/DadosAbertos/tree/main/Programacao_da_operacao)
+ 1. [Avaliação da Operação](https://github.com/haaslucas/DadosAbertos/tree/main/Avaliacao_da_operacao) 
+ 2. [Integração de Instalações](https://github.com/haaslucas/DadosAbertos/tree/main/Integracao_de_instalacoes) 
+ 3. [Operação do Sistema](https://github.com/ONSDados/haaslucas/tree/main/Operacao_do_sistema)    
+ 4. [Planejamento da Operação](https://github.com/haaslucas/DadosAbertos/tree/main/Planejamento_da_operacao) 
+ 5. [Programação da Operação](https://github.com/haaslucas/DadosAbertos/tree/main/Programacao_da_operacao)
 
 **Regras de utilização:**	
 
