@@ -1,3 +1,7 @@
+Este é um fork de um repositório do ONS. Atualmente estou trabalhando no arquivo 'Análise Exploratória.ipynb' na pasta 'Planejamento_da_operacao'. 
+
+Abaixo está o readme original do repositório do ONS.
+
 
 # DadosAbertos
 
